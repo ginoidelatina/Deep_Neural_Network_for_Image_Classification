@@ -40,6 +40,9 @@ Make sure to adjust the installation instructions as needed, depending on the sp
    ```bash
    git clone https://github.com/ginoidelatina/Deep_Neural_Network_for_Image_Classification.git
    cd Deep_Neural_Network_for_Image_Classification
+   ```
 
 2. Open the Jupyter notebook:
+   ``` bash
    jupyter notebook Deep_Neural_Network_Image_Classification.ipynb
+   ```
