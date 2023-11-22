@@ -16,15 +16,12 @@ This repository contains the implementation for the "Deep Neural Network for Ima
 
 ## Dependencies
 Ensure you have the following dependencies installed before running the notebook:
-- **numpy**: `1.18.4`
-- **matplotlib**: `3.2.1`
-- **scikit-learn**: `0.22.2.post1`
-- **scipy**: `1.4.1`
-
-Additionally, you will need the following files and modules from your project:
-- **reg_utils.py**
-- **testCases.py**
-- **public_tests.py**
+- **numpy**: `1.20.1`
+- **matplotlib**: `3.3.4`
+- **scipy**: `1.5.4`
+- **h5py**: `2.10.0`
+- **PIL (Pillow)**: 8.2.0
+- **dnn_app_utils_v3.py** (custom module included in the project)
 
 ## Session Information
 The information below is specific to the session in which this project was tested:
@@ -36,13 +33,19 @@ The information below is specific to the session in which this project was teste
 Make sure to adjust the installation instructions as needed, depending on the specific libraries your code requires.
 
 ## Getting Started
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/ginoidelatina/Deep_Neural_Network_for_Image_Classification.git
+   ```
+2. **Navigate to the assignment notebook directory:**
+   ```bash
    cd Deep_Neural_Network_for_Image_Classification
    ```
-
-2. Open the Jupyter notebook:
+   Make sure to install the required dependencies using the appropriate package manager or virtual environment.
+3. Open the Jupyter notebook:
    ``` bash
-   jupyter notebook Deep_Neural_Network_Image_Classification.ipynb
+   jupyter notebook "Deep_Neural_Network_Image_Classification.ipynb"
    ```
+   This command will open the notebook in your default web browser.
+4. **Run the Notebook:**
+   Within Jupyter Notebook, run the code cells to execute the deep neural network application.
