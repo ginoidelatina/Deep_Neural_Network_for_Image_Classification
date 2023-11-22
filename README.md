@@ -16,15 +16,24 @@ This repository contains the implementation for the "Deep Neural Network for Ima
 
 ## Dependencies
 Ensure you have the following dependencies installed before running the notebook:
-- PIL (Pillow) 8.2.0
-- dnn_app_utils_v3 (NA)
-- h5py 2.10.0
-- matplotlib 3.3.4
-- numpy 1.20.1
-- scipy 1.5.4
-- jupyter==1.0.0
+- **numpy**: `1.18.4`
+- **matplotlib**: `3.2.1`
+- **scikit-learn**: `0.22.2.post1`
+- **scipy**: `1.4.1`
 
-To view the modules imported as dependencies, click [here](https://github.com/ginoidelatina/Deep_Neural_Network_for_Image_Classification/blob/main/requirements.txt).
+Additionally, you will need the following files and modules from your project:
+- **reg_utils.py**
+- **testCases.py**
+- **public_tests.py**
+
+## Session Information
+The information below is specific to the session in which this project was tested:
+
+- **Python**: `3.7.6`
+- **IPython**: `7.14.0`
+- **JupyterLab**: `2.1.1`
+
+Make sure to adjust the installation instructions as needed, depending on the specific libraries your code requires.
 
 ## Getting Started
 1. Clone this repository:
