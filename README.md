@@ -11,8 +11,8 @@ This repository contains the implementation for the "Deep Neural Network for Ima
 
 ## Objectives
 - By completing this notebook, you will have finished the last programming assignment of Week 4 and also the last programming assignment of Course. Upon completion, you should be able to:
-- Build and train a deep L-layer neural network
-- Apply the trained model to supervised learning tasks, specifically for image classification.
+   - Build and train a deep L-layer neural network
+   - Apply the trained model to supervised learning tasks, specifically for image classification.
 
 ## Dependencies
 Ensure you have the following dependencies installed before running the notebook:
